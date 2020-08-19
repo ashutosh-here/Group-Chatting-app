@@ -1,7 +1,7 @@
 
 # Group Chatting app :tada:
 
-A mutli-threaded whatsapp alike offline desktop chatting application .
+A multi-threaded whatsapp alike offline desktop chatting application .
 
 ## Technology & Tools used :desktop_computer:
 
